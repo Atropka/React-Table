@@ -1,0 +1,30 @@
+.nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  ul {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: row;
+    a {
+      text-decoration: none;
+      font-size: 1.15em;
+
+      li {
+        border: 2px solid #ffffff;
+        padding: 10px 15px;
+        border-radius: 25%;
+        list-style: none;
+        margin-right: 2em;
+        transition: 0.2s ease-in-out;
+        color: #fff;
+
+        &:hover {
+          background-color: #1e88e5;
+          color: #fff;
+        }
+      }
+    }
+  }
+}
