@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Table/static/css/main.b16dc7b7.css",
+    "main.js": "/React-Table/static/js/main.db5884bd.js",
+    "index.html": "/React-Table/index.html",
+    "static/media/search.svg": "/React-Table/static/media/search.48c52bf5d459537e27c07f88eb08c050.svg",
+    "static/media/btn-remove.svg": "/React-Table/static/media/btn-remove.b1fef0aa93fbf25374f4991d23f900d8.svg",
+    "main.b16dc7b7.css.map": "/React-Table/static/css/main.b16dc7b7.css.map",
+    "main.db5884bd.js.map": "/React-Table/static/js/main.db5884bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b16dc7b7.css",
+    "static/js/main.db5884bd.js"
+  ]
+}
